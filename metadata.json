@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniTrack Driver",
+  "description": "Real-time bus tracking dashboard for drivers with automated GPS telemetry and AI-assisted status reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
